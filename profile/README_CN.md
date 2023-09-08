@@ -1,4 +1,3 @@
-Hello World! This is codefuse! 
 <p align="left">
   <img src="https://github.com/codefuse-ai/.github/blob/main/profile/LOGO.png" width="100%" />
 </p>
@@ -8,7 +7,9 @@ Hello World! This is codefuse!
 
 </div>
 
-CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期的大型代码语言模型（Code LLMs），涵盖设计、需求、编码、测试、部署、运维等关键阶段。我们致力于打造创新的解决方案，让软件开发者们在研发的过程中如实般顺滑。
+Hello World! This is codefuse! 
+
+CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期的大型代码语言模型（Code LLMs），涵盖设计、需求、编码、测试、部署、运维等关键阶段。我们致力于打造创新的解决方案，让软件开发者们在研发的过程中如丝般顺滑。
 
 
 在本次发布中，我们开源了以下内容：
