@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-[**English**](https://github.com/codefuse-ai/.github/blob/main/profile/README.md)|[**HF Repo**](https://huggingface.co/codefuse)
+[**English**](https://github.com/codefuse-ai/.github/blob/main/profile/README.md)|[**HF Repo**](https://huggingface.co/codefuse-ai)
 
 </div>
 
