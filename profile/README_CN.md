@@ -4,7 +4,7 @@ Hello World! This is codefuse!
 </p>
 <div align="center">
 
-[**English**](./README.md)|[**HF Repo**](https://huggingface.co/codefuse)
+[**English**](https://github.com/codefuse-ai/.github/blob/main/profile/README.md)|[**HF Repo**](https://huggingface.co/codefuse)
 
 </div>
 
