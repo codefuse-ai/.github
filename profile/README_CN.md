@@ -13,7 +13,7 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 
 
 在本次发布中，我们开源了以下内容：
-1. [**MFT（多任务微调）框架，也称为MFTcoder**](https://github.com/codefuse-ai/MFTCoder)；
+1. [**MFT（多任务微调）框架，也称为MFTCoder**](https://github.com/codefuse-ai/MFTCoder)；
 2. **两个用于增强LLMs编码能力的数据集，包括[Code Exercise](https://huggingface.co/datasets/codefuse/CodeExercise-Python-27k)和[Evol-Instruction](https://huggingface.co/datasets/codefuse/Evol-instruction-66k)**；
 3. [**基于FasterTransformer的更快速、更可靠的部署框架**](https://github.com/codefuse-ai/FasterTransformer4CodeFuse)。
 
