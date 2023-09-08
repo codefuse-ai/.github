@@ -13,7 +13,7 @@ Hello World! This is codefuse!
 **The mission of CodeFuse is to develop Code Large Language Models (Code LLMs) specifically designed to support the entire software development lifecycle, covering crucial stages such as design, requirements, coding, testing, deployment, operations, and maintenance.** We are passionate about creating innovative solutions that empower developers throughout the software development process.
 
 In this release, we are open sourcing 
-1. [**The MFT (Multi-Task Fine-Tuning) framework, known as MFTcoder**](https://github.com/codefuse-ai/MFTCoder);
+1. [**The MFT (Multi-Task Fine-Tuning) framework, known as MFTCoder**](https://github.com/codefuse-ai/MFTCoder);
 2. **Two datasets for enhancing the coding capabilities of LLMs, that is, [Code Exercise](https://huggingface.co/datasets/codefuse-ai/CodeExercise-Python-27k) and [Evol-Instruction](https://huggingface.co/datasets/codefuse-ai/Evol-instruction-66k)**;
 3. [**A faster and more reliable deployment framework based on FasterTransformer**](https://github.com/codefuse-ai/FasterTransformer4CodeFuse).
 
