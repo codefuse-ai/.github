@@ -1,6 +1,6 @@
 Hello World! This is codefuse! 
 <p align="left">
-  <img src="./LOGO.png" width="100%" />
+  <img src="https://github.com/codefuse-ai/.github/blob/main/profile/LOGO.png" width="100%" />
 </p>
 <div align="center">
 
