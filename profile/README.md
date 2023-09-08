@@ -1,4 +1,3 @@
-Hello World! This is codefuse! 
 <p align="left">
   <img src="https://github.com/codefuse-ai/.github/blob/main/profile/LOGO.png" width="100%" />
 </p>
@@ -9,6 +8,7 @@ Hello World! This is codefuse!
 [**简体中文**](https://github.com/codefuse-ai/.github/blob/main/profile/README_CN.md)|[**HF Repo**](https://huggingface.co/codefuse-ai)
 
 </div>
+Hello World! This is codefuse! 
 
 **The mission of CodeFuse is to develop Code Large Language Models (Code LLMs) specifically designed to support the entire software development lifecycle, covering crucial stages such as design, requirements, coding, testing, deployment, operations, and maintenance.** We are passionate about creating innovative solutions that empower developers throughout the software development process.
 
