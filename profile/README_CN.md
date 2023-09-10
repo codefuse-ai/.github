@@ -5,6 +5,7 @@
 
 [**English**](https://github.com/codefuse-ai/.github/blob/main/profile/README.md)|[**HF Repo**](https://huggingface.co/codefuse-ai)|[**魔塔CodeFuse-13B**](https://modelscope.cn/models/ss41979310/CodeFuse-CodeLlama-34B/files)|[**魔塔CodeFuse-CodeLlama-34B**](https://modelscope.cn/models/ss41979310/CodeFuse-CodeLlama-34B/files)
 
+**HF仓库文件还在上传中，魔塔仓库已可用**
 </div>
 
 Hello World! This is CodeFuse! 
