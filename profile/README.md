@@ -7,6 +7,8 @@
 
 [**简体中文**](https://github.com/codefuse-ai/.github/blob/main/profile/README_CN.md)|[**HF Repo**](https://huggingface.co/codefuse-ai)|[**ModelScope CodeFuse-13B**](https://modelscope.cn/models/ss41979310/CodeFuse-CodeLlama-34B/files)|[**ModelScope CodeFuse-CodeLlama-34B**](https://modelscope.cn/models/ss41979310/CodeFuse-CodeLlama-34B/files)
 
+**Huggingface model files are still uploading. ModelScope repos are ready.**
+
 </div>
 Hello World! This is CodeFuse! 
 
