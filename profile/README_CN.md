@@ -22,3 +22,11 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 **我们邀请您在[ModelScope](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)上探索和体验我们的CodeFuse-CodeLlama-34B模型的功能**。**此外，我们在我们的[演示视频](https://github.com/codefuse-ai/codefuse)中展示了贪吃蛇游戏的指令代码生成过程**。
 
 我们相信我们的解决方案可以显著提升预训练LLMs在多个相关任务上的性能。我们将进一步探索这个方向，并提供更多的开源贡献。与此同时，我们诚邀志同道合的工程师和研究人员加入这个社区，共同构建CodeFuse。
+
+
+## 联系我们
+如果您对我们的工作感兴趣，您可以通过以下方式与我们取得联系。
+
+### 微信
+
+<img width="300" alt="codefuse_wechat" src="https://github.com/codefuse-ai/.github/assets/103973989/5e3112a3-5343-49ae-b06d-0d3148113d20">
