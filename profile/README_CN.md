@@ -29,7 +29,8 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 
 ### 微信
 
-<img src="https://github.com/codefuse-ai/.github/assets/103973989/2bc13cb1-0299-4a00-9e97-f486487c290c" width="200">
+<img width="200" src="https://github.com/codefuse-ai/.github/assets/103973989/4c247d69-b1e0-4118-8e11-d55a723ebdb7">
+
 
 
 
