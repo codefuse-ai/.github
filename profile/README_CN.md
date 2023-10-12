@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-[**English**](https://github.com/codefuse-ai/.github/blob/main/profile/README.md)|[**HF Repo**](https://huggingface.co/codefuse-ai)|[**魔搭Repo**](https://modelscope.cn/organization/codefuse-ai)
+[**English**](https://github.com/codefuse-ai/.github/blob/main/profile/README.md)|[**HF Repo**](https://huggingface.co/codefuse-ai)|[**魔搭Repo**](https://modelscope.cn/organization/codefuse-ai) | [**论文**](https://arxiv.org/abs/2310.06266)
 
 </div>
 
