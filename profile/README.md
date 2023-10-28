@@ -18,4 +18,4 @@ Hello World! This is CodeFuse!
 </p>
 <br/>
 
-We are passionate about creating innovative open-source solutions that empower developers throughout the software development process as shown above. We also encourage engineers and researchers within this community to join us in co-constructing/improving CodeFuse.
+We are passionating about creating innovative open-source solutions that empower developers throughout the software development process as shown above. We also encourage engineers and researchers within this community to join us in co-constructing/improving CodeFuse.
