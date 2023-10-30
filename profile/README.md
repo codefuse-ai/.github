@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[**简体中文** ](https://github.com/codefuse-ai/.github/blob/main/profile/README_CN.md)| [**HF Repo** ](https://huggingface.co/codefuse-ai)|[ **ModelScope Repo** ](https://modelscope.cn/organization/codefuse-ai)|[ **Website** ](https://codefuse.alipay.com/welcome/index)
+[**简体中文** ](https://github.com/codefuse-ai/.github/blob/main/profile/README_CN.md)| [**HF Repo** ](https://huggingface.co/codefuse-ai)|[ **ModelScope Repo** ](https://modelscope.cn/organization/codefuse-ai)
 </div>
 
 Hello World! This is CodeFuse! 
