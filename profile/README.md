@@ -17,5 +17,4 @@ Hello World! This is CodeFuse!
   <img src="https://github.com/codefuse-ai/.github/assets/82250814/9c8cd9f3-b1ca-43a1-9b0f-8f612b06753e" width="90%" />
 </p>
 <br/>
-
 We are passionating about creating innovative open-source solutions that empower developers throughout the software development process as shown above. We also encourage engineers and researchers within this community to join us in co-constructing/improving CodeFuse.
